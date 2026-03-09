@@ -1,0 +1,41 @@
+.profile-pic {
+    width: 240px;
+    height: 320px;
+    object-fit: cover;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+ul {
+    list-style-type: square;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+}
